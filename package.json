@@ -1,6 +1,7 @@
 {
     "name": "@uber-data/dtcswap-interface",
     "description": "DTCSwap Interface",
+    "version": "1.0.0",
     "homepage": ".",
     "private": true,
     "devDependencies": {
